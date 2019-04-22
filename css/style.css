@@ -3,6 +3,7 @@
 body {
 	font-family: 'Lato', sans-serif;
 	background-color: #E75C03;
+	min-height: 100vh;
 }
 
 .title, .subtitle, p {
