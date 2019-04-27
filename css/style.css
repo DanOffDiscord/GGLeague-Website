@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Gugi');
 
 body {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Gugi', cursive;
 	background-color: #E75C03;
 	min-height: 100vh;
 }
@@ -17,9 +17,17 @@ body {
 	display: block;
 }
 
+.fab {
+	font-size: 100px;
+	color: black;
+}
+
+.table {
+	margin: auto;
+}
+
 footer.footer {
 	background-color: transparent;
-	position: fixed;
 	bottom: 0;
 	width: 100%;
 	text-align: center;
