@@ -22,8 +22,10 @@ body {
 	color: black;
 }
 
-.table {
+.konkuri-widget-iframe {
+	height: 1000px;
 	margin: auto;
+	display: block;
 }
 
 footer.footer {
